@@ -1,8 +1,3 @@
-# TRABALHO FINAL DE COMPUTAÇÃO - JOGO DA FORCA
-
-# Nome dos participantes do grupo(seguido do DRE): João Pedro Bianco(120064499), Nina Machado Fortes(120064978), Thiago Pereira Paura(120098943)
-
-
 # Código principal
 
 
