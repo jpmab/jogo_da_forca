@@ -1,8 +1,4 @@
-TRABALHO FINAL DE COMPUTAÇÃO - JOGO DA FORCA
-
-Nome dos participantes do grupo(seguido do DRE): João Pedro Bianco(120064499), Nina Machado Fortes(120064978), Thiago Pereira Paura(120098943)
-
-Dividimos o código do trabalho em dois códigos para ficar mais organizado e legivel. Os códigos são:
+Dividimos o código em dois, para ficar mais organizado e legivel. Os códigos são:
 		
 		# O principal(jogo_da_forca.py), responsável pelas funções que fazem o jogo funcionar corretamente;
 
